@@ -1,0 +1,47 @@
+{
+    "ok": true,
+    "result": [
+        {
+            "update_id": 377911642,
+            "message": {
+                "message_id": 9,
+                "from": {
+                    "id": 6638725618,
+                    "is_bot": false,
+                    "first_name": "Дарья",
+                    "language_code": "ru"
+                },
+                "chat": {
+                    "id": 6638725618,
+                    "first_name": "Дарья",
+                    "type": "private"
+                },
+                "date": 1761826849,
+                "text": "dfghjkl;"
+            }
+        },
+        {
+            "update_id": 377911643,
+            "message": {
+                "message_id": 12,
+                "from": {
+                    "id": 6638725618,
+                    "is_bot": false,
+                    "first_name": "Дарья",
+                    "language_code": "ru"
+                },
+                "chat": {
+                    "id": 6638725618,
+                    "first_name": "Дарья",
+                    "type": "private"
+                },
+                "date": 1761826977,
+                "location": {
+                    "latitude": 55.657262,
+                    "longitude": 37.621205
+                }
+            }
+        }
+    ]
+}
+
