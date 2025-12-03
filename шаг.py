@@ -62,7 +62,7 @@ def main():
                     }
                     params = {
                         "chat_id": chat_id,
-                        "text": "Привет, выбери статистику или напишите число шагов:",
+                        "text": "Привет, выбери статистику или напишите число шагов.Важно! Пиши шаги не общим количеством, а только те, что прошел",
                         "reply_markup": json.dumps(buttons)
                     }
                     requests.get(f"{URL}sendMessage", params=params)
